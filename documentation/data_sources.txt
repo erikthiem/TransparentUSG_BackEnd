@@ -40,18 +40,6 @@ Type:
 Returns:
     HTML page that must be further parsed
 
-
-Name:
-    Embedded Google Docs USG Feedback Form
-Purpose:
-    To get more students to provide feedback to USG
-URL:
-    https://docs.google.com/forms/d/1RhXXu-Ru4Km8jAkWB2dir6JA40fFwq8hznmCah3RCFI/viewform?embedded=true
-Params:
-    None
-Type:
-    Embedded frame
-
 Name:
     USG General Assembly Legislation
 Purpose:
