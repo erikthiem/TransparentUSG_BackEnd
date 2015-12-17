@@ -1,0 +1,56 @@
+Name:
+    OSU People Finder
+Purpose:
+    To cross-verify that a student is actually a current OSU student
+Url:
+    https://www.osu.edu/findpeople
+Params:
+    name_n=lastname.dotnumber
+    filter=student
+Type:
+    HTTP POST Request
+Returns:
+    HTML page that must be further parsed
+
+
+Name:
+    USG Meet the General Assembly
+Purpose:
+    To get the names, email addresses, and colleges represented by each senator
+Url:
+    http://usg.osu.edu/generalassembly/meet_the_general_assembly
+Params:
+    None
+Type:
+    HTTP GET Request
+Returns:
+    HTML page that must be further parsed
+
+
+Name:
+    USG General Assembly Agendas
+Purpose:
+    To get USG meeting agenda PDFs
+URL:
+    http://usg.osu.edu/generalassembly/agendas
+Params:
+    None
+Type:
+    HTTP GET Request
+Returns:
+    HTML page that must be further parsed
+
+
+Name:
+    Embedded Google Docs USG Feedback Form
+Purpose:
+    To get more students to provide feedback to USG
+URL:
+    https://docs.google.com/forms/d/1RhXXu-Ru4Km8jAkWB2dir6JA40fFwq8hznmCah3RCFI/viewform?embedded=true
+Params:
+    None
+Type:
+    Embedded frame
+
+Name:
+
