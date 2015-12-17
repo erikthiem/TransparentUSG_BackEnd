@@ -53,4 +53,28 @@ Type:
     Embedded frame
 
 Name:
+    USG General Assembly Legislation
+Purpose:
+    To allow students to view passed and pending USG legislation.
+URL:
+    http://usg.osu.edu/generalassembly/legislation
+Params:
+    None
+Type:
+    HTTP GET Request
+Returns:
+    HTML page that must be further parsed
 
+
+Name:
+    USG General Assembly Minutes
+Purpose:
+    To view USG meeting discussions
+URL:
+    http://usg.osu.edu/generalassembly/minutes_
+Params:
+    None
+Type:
+    HTTP GET Request
+Returns:
+    HTML page that must be further parsed
