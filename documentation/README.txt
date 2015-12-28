@@ -12,3 +12,6 @@ It will allow students to:
 
 This README, which isn't quite complete, will contain documentation relating to
 the back end.
+
+Trello is being used for project management. The link to the Trello board
+for this back end is: https://trello.com/b/w6guWNiV/back-end
